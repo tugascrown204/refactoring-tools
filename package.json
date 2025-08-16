@@ -15,6 +15,5 @@
     "url": "git+https://github.com/yourusername/refactoring-tools.git"
   },
   "keywords": ["refactoring", "code smells", "cli", "tool"]
-  
   // This file contains the metadata and configuration for the refactoring-tools project.
 }
