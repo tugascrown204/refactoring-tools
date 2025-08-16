@@ -8,5 +8,10 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Your Name <your.email@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/refactoring-tools.git"
+  }
 }
