@@ -13,5 +13,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yourusername/refactoring-tools.git"
-  }
+  },
+  "keywords": ["refactoring", "code smells", "cli", "tool"]
 }
